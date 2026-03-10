@@ -2,8 +2,6 @@
 
 # Hey there, I'm Fernando Hasiholan Sinaga
 
-### Data Analyst Enthusiast
-
 </div>
 
 <br/>
@@ -48,7 +46,7 @@ Believer that great data visualization changes decisions
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="SQL" title="SQL / PostgreSQL" />
 &nbsp;&nbsp;
-<img src="https://img.icons8.com/ios_filled/96/sqlite.png" height="60" alt="SQLite" title="SQLite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="SQLite" title="SQLite" />
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" title="Python" />
 &nbsp;&nbsp;
