@@ -124,7 +124,7 @@ Believer that great data visualization changes decisions
 <br/>
 <div align="center">
   
-### Look at my Pacman eat my contributions
+### Look at my Snake eat my contributions
 
 <div align="center">
 
