@@ -150,21 +150,6 @@ Believer that great data visualization changes decisions
 
 <div align="center">
 
-### Dev Quote of the Day
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=false" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
 
 ### Let's Connect
 
