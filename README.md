@@ -129,8 +129,6 @@ I'm naturally curious, if there's a pattern hiding in the data, I won't stop unt
 
 ### Let's Connect
 
-<br/>
-
 <a href="https://linkedin.com/in/fernandohasiholansinaga">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
 </a>
@@ -140,7 +138,5 @@ I'm naturally curious, if there's a pattern hiding in the data, I won't stop unt
 </a>
 
 <br/><br/>
-
-*"Without data, you're just another person with an opinion." — W. Edwards Deming*
 
 </div>
