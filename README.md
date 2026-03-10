@@ -122,17 +122,6 @@ Believer that great data visualization changes decisions
 <br/>
 <div align="center">
   
-### Look at my Snake eat my contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandosinaga123456/fernandosinaga123456/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandosinaga123456/fernandosinaga123456/output/pacman-contribution-graph.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/fernandosinaga123456/fernandosinaga123456/output/pacman-contribution-graph.svg">
-</picture>
-
-### Pacman
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandosinaga123456/fernandosinaga123456/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandosinaga123456/fernandosinaga123456/output/pacman-contribution-graph.svg">
