@@ -1,45 +1,37 @@
-<div align="center">
+<div align="left">
 
-# Hey there, I'm Fernando Hasiholan Sinaga
-
+# Hi, I'm Fernando Hasiholan Sinaga 
+Data Enthusiast <br>
+Currently Learning Data Analysis Package
 </div>
-
 <br/>
 
 ---
 
 <br/>
 
-<div align="center">
-
+<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandosinaga123456/fernandosinaga123456/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandosinaga123456/fernandosinaga123456/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fernandosinaga123456/fernandosinaga123456/output/pacman-contribution-graph.svg">
+</picture>
+  
 ### About Me
 
-<br/>
-
-Data Analyst Enthusiast who loves making numbers tell stories
-
-Obsessed with clean, beautiful and insightful dashboards
-
-
-Always curious, if there's a pattern, I'll find it
-
-
-Believer that great data visualization changes decisions
-
+Hi, I'm Fernando, a Data Analyst Enthusiast who believes that behind every number, there's a story waiting to be told. 
+<br>I'm passionate about transforming raw data into clean, beautiful, and insightful dashboards that are not just informative but also visually compelling.
+I'm naturally curious, if there's a pattern hiding in the data, I won't stop until I find it. 
+<br>I believe that great data visualization has the power to change decisions, and that's exactly what drives me every day to keep learning and growing in the world of data.
 </div>
 
 <br/>
 
 ---
-
-<br/>
-
 <div align="center">
 
 ### My Toolkit
-
-<br/>
-
+<br>
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="60" alt="Excel" title="Excel" />
 &nbsp;&nbsp;
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" height="60" alt="MySQL" title="MySQL" />
@@ -77,7 +69,6 @@ Believer that great data visualization changes decisions
 
 ---
 
-<br/>
 
 <div align="center">
 
@@ -100,7 +91,6 @@ Believer that great data visualization changes decisions
 
 ---
 
-<br/>
 
 <div align="center">
 
@@ -141,9 +131,8 @@ Believer that great data visualization changes decisions
 
 ---
 
-<br/>
 
-<div align="center">
+<div align="left">
 
 
 ### Let's Connect
