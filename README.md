@@ -88,7 +88,7 @@ Believer that great data visualization changes decisions
 <img src="https://img.shields.io/badge/Data%20Analysis-8B6914?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-8B4513?style=for-the-badge&logo=tensorflow&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Advanced%20SQL-A0522D?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/%20SQL-A0522D?style=for-the-badge&logo=postgresql&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Statistics-6B3A2A?style=for-the-badge&logo=scipy&logoColor=white" />
 &nbsp;
