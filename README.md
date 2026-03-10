@@ -4,11 +4,10 @@
 Data Enthusiast <br>
 Currently Learning Data Analysis Package
 </div>
-<br/>
+
 
 ---
 
-<br/>
 
 <div align="left">
 <picture>
@@ -25,7 +24,6 @@ I'm naturally curious, if there's a pattern hiding in the data, I won't stop unt
 <br>I believe that great data visualization has the power to change decisions, and that's exactly what drives me every day to keep learning and growing in the world of data.
 </div>
 
-<br/>
 
 ---
 <div align="center">
@@ -65,7 +63,6 @@ I'm naturally curious, if there's a pattern hiding in the data, I won't stop unt
 
 </div>
 
-<br/>
 
 ---
 
@@ -87,8 +84,6 @@ I'm naturally curious, if there's a pattern hiding in the data, I won't stop unt
 
 </div>
 
-<br/>
-
 ---
 
 
@@ -100,12 +95,9 @@ I'm naturally curious, if there's a pattern hiding in the data, I won't stop unt
 
 <img src="https://streak-stats.demolab.com?user=fernandosinaga123456&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&stroke=8B4513&ring=8B4513&fire=A0522D&currStreakLabel=8B4513" height="150" alt="streak graph" />
 
-<br/><br/>
-
 
 </div>
 
-<br/>
 
 ---
 
