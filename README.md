@@ -18,10 +18,7 @@ Currently Learning Data Analysis Package
   
 ### About Me
 
-Hi, I'm Fernando, a Data Analyst Enthusiast who believes that behind every number, there's a story waiting to be told. 
-<br>I'm passionate about transforming raw data into clean, beautiful, and insightful dashboards that are not just informative but also visually compelling.
-I'm naturally curious, if there's a pattern hiding in the data, I won't stop until I find it. 
-<br>I believe that great data visualization has the power to change decisions, and that's exactly what drives me every day to keep learning and growing in the world of data.
+Hi, I'm Fernando Hasiholan Sinaga, a fresh graduate in Information Systems from Universitas Sari Mutiara Indonesia and the Best Graduate of my program (GPA 3.90/4.00). I’m passionate about data analysis and data mining, with hands-on experience in Python, SQL, Excel, Power BI, and Tableau for data cleaning, EDA, and visualization. I previously interned as a Career Center Staff, working with alumni and student data to generate insights for institutional decision-making. My academic projects include K-Means clustering for disease pattern analysis, flood risk mapping research, and developing web-based information systems to support MSME digitalization.
 </div>
 
 
